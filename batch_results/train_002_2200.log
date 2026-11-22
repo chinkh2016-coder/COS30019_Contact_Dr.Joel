@@ -1,0 +1,72 @@
+Location: 2200 | MAROONDAH_HWY W of UNION_RD
+Available records: 2006-10-01 to 2006-10-31
+Training samples: 1840 (2006-10-01 to 2006-10-20)
+Validation samples: 368 (2006-10-21 to 2006-10-24)
+Testing samples: 644 (2006-10-25 to 2006-10-31)
+Same October 25-31 evaluation period as the original benchmark.
+Epoch 1/30
+58/58 - 1s - 9ms/step - loss: 0.0612 - val_loss: 0.0171
+Epoch 2/30
+58/58 - 0s - 822us/step - loss: 0.0138 - val_loss: 0.0098
+Epoch 3/30
+58/58 - 0s - 668us/step - loss: 0.0089 - val_loss: 0.0066
+Epoch 4/30
+58/58 - 0s - 665us/step - loss: 0.0072 - val_loss: 0.0058
+Epoch 5/30
+58/58 - 0s - 808us/step - loss: 0.0069 - val_loss: 0.0056
+Epoch 6/30
+58/58 - 0s - 779us/step - loss: 0.0068 - val_loss: 0.0055
+Epoch 7/30
+58/58 - 0s - 654us/step - loss: 0.0067 - val_loss: 0.0055
+Epoch 8/30
+58/58 - 0s - 653us/step - loss: 0.0066 - val_loss: 0.0054
+Epoch 9/30
+58/58 - 0s - 641us/step - loss: 0.0066 - val_loss: 0.0053
+Epoch 10/30
+58/58 - 0s - 639us/step - loss: 0.0065 - val_loss: 0.0053
+Epoch 11/30
+58/58 - 0s - 650us/step - loss: 0.0064 - val_loss: 0.0052
+Epoch 12/30
+58/58 - 0s - 632us/step - loss: 0.0064 - val_loss: 0.0052
+Epoch 13/30
+58/58 - 0s - 632us/step - loss: 0.0063 - val_loss: 0.0051
+Epoch 14/30
+58/58 - 0s - 631us/step - loss: 0.0063 - val_loss: 0.0050
+Epoch 15/30
+58/58 - 0s - 626us/step - loss: 0.0062 - val_loss: 0.0050
+Epoch 16/30
+58/58 - 0s - 614us/step - loss: 0.0061 - val_loss: 0.0049
+Epoch 17/30
+58/58 - 0s - 2ms/step - loss: 0.0061 - val_loss: 0.0048
+Epoch 18/30
+58/58 - 0s - 738us/step - loss: 0.0060 - val_loss: 0.0048
+Epoch 19/30
+58/58 - 0s - 652us/step - loss: 0.0059 - val_loss: 0.0047
+Epoch 20/30
+58/58 - 0s - 796us/step - loss: 0.0059 - val_loss: 0.0047
+Epoch 21/30
+58/58 - 0s - 641us/step - loss: 0.0058 - val_loss: 0.0046
+Epoch 22/30
+58/58 - 0s - 634us/step - loss: 0.0058 - val_loss: 0.0045
+Epoch 23/30
+58/58 - 0s - 662us/step - loss: 0.0057 - val_loss: 0.0045
+Epoch 24/30
+58/58 - 0s - 675us/step - loss: 0.0056 - val_loss: 0.0044
+Epoch 25/30
+58/58 - 0s - 677us/step - loss: 0.0056 - val_loss: 0.0043
+Epoch 26/30
+58/58 - 0s - 633us/step - loss: 0.0055 - val_loss: 0.0043
+Epoch 27/30
+58/58 - 0s - 625us/step - loss: 0.0055 - val_loss: 0.0042
+Epoch 28/30
+58/58 - 0s - 619us/step - loss: 0.0054 - val_loss: 0.0041
+Epoch 29/30
+58/58 - 0s - 619us/step - loss: 0.0053 - val_loss: 0.0041
+Epoch 30/30
+58/58 - 0s - 623us/step - loss: 0.0053 - val_loss: 0.0040
+LSTM RMSE (2006-10-25 to 2006-10-31): 18.04
+Baseline RMSE: 18.82
+Saved model records: 30
+Model ready: 2200 MAROONDAH_HWY W of UNION_RD
+No roads.csv changes.
+October 25 observations are available for this location.

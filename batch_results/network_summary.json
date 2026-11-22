@@ -1,0 +1,20 @@
+{
+  "configured_stations": 36,
+  "dataset_stations": 40,
+  "directed_roads": 87,
+  "saved_models": 88,
+  "unconfigured_stations": [
+    2827,
+    4262,
+    4812,
+    4821
+  ],
+  "no_outgoing_mapping": [
+    4335
+  ],
+  "no_incoming_mapping": [
+    2825
+  ],
+  "basis": "Prototype inferred corridors, straight-line estimates and source-side measurement proxies; not a complete or verified physical road network.",
+  "legacy_tests": "Original scenarios run on regression_roads_snapshot.csv; test_network_batch uses current roads.csv."
+}
