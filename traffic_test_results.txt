@@ -1,0 +1,34 @@
+test_01_top_routes (test_traffic_runtime.TrafficSystemTests.test_01_top_routes) ... ok
+test_02_bfs (test_traffic_runtime.TrafficSystemTests.test_02_bfs) ... ok
+test_03_as (test_traffic_runtime.TrafficSystemTests.test_03_as) ... ok
+test_04_cus1 (test_traffic_runtime.TrafficSystemTests.test_04_cus1) ... ok
+test_05_cus2 (test_traffic_runtime.TrafficSystemTests.test_05_cus2) ... ok
+test_06_reverse_with_available_data (test_traffic_runtime.TrafficSystemTests.test_06_reverse_with_available_data) ... ok
+test_07_no_route (test_traffic_runtime.TrafficSystemTests.test_07_no_route) ... ok
+test_08_same_station (test_traffic_runtime.TrafficSystemTests.test_08_same_station) ... ok
+test_09_invalid_date (test_traffic_runtime.TrafficSystemTests.test_09_invalid_date) ... ok
+test_10_unknown_station (test_traffic_runtime.TrafficSystemTests.test_10_unknown_station) ... ok
+test_11_low_slot (test_traffic_runtime.TrafficSystemTests.test_11_low_slot) ... ok
+test_12_high_slot (test_traffic_runtime.TrafficSystemTests.test_12_high_slot) ... ok
+test_13_invalid_limit (test_traffic_runtime.TrafficSystemTests.test_13_invalid_limit) ... ok
+test_14_unknown_algorithm (test_traffic_runtime.TrafficSystemTests.test_14_unknown_algorithm) ... ok
+test_15_cycles (test_traffic_runtime.TrafficSystemTests.test_15_cycles) ... ok
+test_16_missing_observations (test_traffic_runtime.TrafficSystemTests.test_16_missing_observations) ... ok
+test_17_unsupported_date (test_traffic_runtime.TrafficSystemTests.test_17_unsupported_date) ... ok
+test_01_four_links_configured (test_canterbury_extension.CanterburyExtensionTests.test_01_four_links_configured) ... ok
+test_02_available_date_both_directions (test_canterbury_extension.CanterburyExtensionTests.test_02_available_date_both_directions) ... ok
+test_03_missing_date_excludes_outgoing_links (test_canterbury_extension.CanterburyExtensionTests.test_03_missing_date_excludes_outgoing_links) ... ok
+test_04_valid_incoming_link_remains_available (test_canterbury_extension.CanterburyExtensionTests.test_04_valid_incoming_link_remains_available) ... ok
+test_01_configured_links (test_burke_bridge.BurkeBridgeTests.test_01_configured_links) ... ok
+test_02_two_alternative_paths (test_burke_bridge.BurkeBridgeTests.test_02_two_alternative_paths) ... ok
+test_03_costs_and_simple_paths (test_burke_bridge.BurkeBridgeTests.test_03_costs_and_simple_paths) ... ok
+test_04_bridge_works_when_3127_data_missing (test_burke_bridge.BurkeBridgeTests.test_04_bridge_works_when_3127_data_missing) ... ok
+test_01_northbound_corridor (test_burke_north.BurkeNorthTests.test_01_northbound_corridor) ... ok
+test_02_southbound_corridor (test_burke_north.BurkeNorthTests.test_02_southbound_corridor) ... ok
+test_03_route_cost_matches_edges (test_burke_north.BurkeNorthTests.test_03_route_cost_matches_edges) ... ok
+test_04_missing_data_bypass (test_burke_north.BurkeNorthTests.test_04_missing_data_bypass) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 3.558s
+
+OK
