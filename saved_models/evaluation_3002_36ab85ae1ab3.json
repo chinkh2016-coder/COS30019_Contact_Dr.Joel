@@ -1,0 +1,20 @@
+{
+  "site": 3002,
+  "location": "BARKERS_RD W of DENMARK_ST",
+  "filename": "model_3002_36ab85ae1ab3.keras",
+  "minimum": 1.0,
+  "scale_range": 366.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 24.295791609465535,
+  "Baseline_RMSE": 24.232568813568815,
+  "NRMSE_percent": 22.77653097453377,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

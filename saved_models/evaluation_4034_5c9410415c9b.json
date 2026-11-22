@@ -1,0 +1,20 @@
+{
+  "site": 4034,
+  "location": "BURKE_RD N OF WHITEHORSE_RD",
+  "filename": "model_4034_5c9410415c9b.keras",
+  "minimum": 1.0,
+  "scale_range": 440.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 23.42904453314954,
+  "Baseline_RMSE": 23.734066247087075,
+  "NRMSE_percent": 15.095248493655387,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

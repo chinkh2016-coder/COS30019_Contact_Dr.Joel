@@ -1,0 +1,20 @@
+{
+  "site": 3002,
+  "location": "POWER_ST S of BARKERS_RD",
+  "filename": "model_3002_f3c558189e50.keras",
+  "minimum": 0.0,
+  "scale_range": 338.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 25.812343428893595,
+  "Baseline_RMSE": 24.874103290224426,
+  "NRMSE_percent": 20.93753831298017,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

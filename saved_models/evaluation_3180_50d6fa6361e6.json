@@ -1,0 +1,20 @@
+{
+  "site": 3180,
+  "location": "DONCASTER_RD W of BALWYN_RD",
+  "filename": "model_3180_50d6fa6361e6.keras",
+  "minimum": 0.0,
+  "scale_range": 192.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 16.7409905107684,
+  "Baseline_RMSE": 16.837642684774025,
+  "NRMSE_percent": 23.384010170122217,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

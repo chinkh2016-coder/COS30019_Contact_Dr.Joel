@@ -1,0 +1,20 @@
+{
+  "site": 4057,
+  "location": "BALWYN_RD N OF BELMORE_RD",
+  "filename": "model_4057_1ef11f5d6b1b.keras",
+  "minimum": 0.0,
+  "scale_range": 285.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 17.23356280004848,
+  "Baseline_RMSE": 18.565186480838886,
+  "NRMSE_percent": 20.945937499020918,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

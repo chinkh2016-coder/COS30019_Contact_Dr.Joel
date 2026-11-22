@@ -1,0 +1,20 @@
+{
+  "site": 3685,
+  "location": "WARRIGAL_RD S of HIGHBURY_RD",
+  "filename": "model_3685_20d6f1abd082.keras",
+  "minimum": 2.0,
+  "scale_range": 634.0,
+  "window_size": 4,
+  "validation_start": "2006-10-17",
+  "test_start": "2006-10-20",
+  "test_end_exclusive": "2006-10-23",
+  "evaluation_note": "Different evaluation period; not directly comparable with October 25-31 models.",
+  "train_samples": 1472,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 42.138353319446594,
+  "Baseline_RMSE": 36.86363433292876,
+  "NRMSE_percent": 16.301332281403408,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

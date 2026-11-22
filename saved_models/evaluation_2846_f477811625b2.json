@@ -1,0 +1,20 @@
+{
+  "site": 2846,
+  "location": "HIGH_ST E OF S.E.ARTERIAL",
+  "filename": "model_2846_f477811625b2.keras",
+  "minimum": 0.0,
+  "scale_range": 534.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 23.50732798152844,
+  "Baseline_RMSE": 25.824479214653575,
+  "NRMSE_percent": 18.745086390837553,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

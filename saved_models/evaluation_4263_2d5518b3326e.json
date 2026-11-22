@@ -1,0 +1,20 @@
+{
+  "site": 4263,
+  "location": "POWER_ST N of BURWOOD_RD",
+  "filename": "model_4263_2d5518b3326e.keras",
+  "minimum": 1.0,
+  "scale_range": 334.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 22.305954666603796,
+  "Baseline_RMSE": 22.113098616765193,
+  "NRMSE_percent": 17.73169207368274,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

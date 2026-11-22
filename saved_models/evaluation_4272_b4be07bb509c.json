@@ -1,0 +1,20 @@
+{
+  "site": 4272,
+  "location": "TOORONGA_RD S of RIVERSDALE_RD",
+  "filename": "model_4272_b4be07bb509c.keras",
+  "minimum": 0.0,
+  "scale_range": 149.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1748,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 12.048481086635473,
+  "Baseline_RMSE": 12.484586770586288,
+  "NRMSE_percent": 21.963376980845915,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

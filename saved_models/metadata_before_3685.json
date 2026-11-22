@@ -1,0 +1,66 @@
+[
+  {
+    "site": 970,
+    "location": "WARRIGAL_RD N of HIGH STREET_RD",
+    "filename": "model_001_970.keras",
+    "minimum": 1.0,
+    "scale_range": 449.0,
+    "window_size": 4
+  },
+  {
+    "site": 2000,
+    "location": "TOORAK_RD W of WARRIGAL_RD",
+    "filename": "model_002_2000.keras",
+    "minimum": 4.0,
+    "scale_range": 435.0,
+    "window_size": 4
+  },
+  {
+    "site": 2000,
+    "location": "WARRIGAL_RD N of TOORAK_RD",
+    "filename": "model_003_2000.keras",
+    "minimum": 0.0,
+    "scale_range": 342.0,
+    "window_size": 4
+  },
+  {
+    "site": 2000,
+    "location": "WARRIGAL_RD S of BURWOOD_HWY",
+    "filename": "model_004_2000.keras",
+    "minimum": 2.0,
+    "scale_range": 462.0,
+    "window_size": 4
+  },
+  {
+    "site": 2200,
+    "location": "MAROONDAH_HWY E of UNION_RD",
+    "filename": "model_005_2200.keras",
+    "minimum": 0.0,
+    "scale_range": 287.0,
+    "window_size": 4
+  },
+  {
+    "site": 3804,
+    "location": "RIVERSDALE_RD E of TRAFALGAR_RD",
+    "filename": "model_006_3804.keras",
+    "minimum": 0.0,
+    "scale_range": 388.0,
+    "window_size": 4
+  },
+  {
+    "site": 4040,
+    "location": "RIVERSDALE_RD E of BURKE_RD",
+    "filename": "model_007_4040.keras",
+    "minimum": 0.0,
+    "scale_range": 241.0,
+    "window_size": 4
+  },
+  {
+    "site": 4043,
+    "location": "BURKE_RD N of TOORAK_RD",
+    "filename": "model_008_4043.keras",
+    "minimum": 2.0,
+    "scale_range": 338.0,
+    "window_size": 4
+  }
+]

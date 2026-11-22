@@ -1,0 +1,20 @@
+{
+  "site": 4263,
+  "location": "BURWOOD_RD E of POWER_ST",
+  "filename": "model_4263_61b814e12408.keras",
+  "minimum": 3.0,
+  "scale_range": 367.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 19.59785551033601,
+  "Baseline_RMSE": 20.450009744514173,
+  "NRMSE_percent": 17.37778102182336,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

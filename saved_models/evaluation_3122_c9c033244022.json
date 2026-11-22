@@ -1,0 +1,20 @@
+{
+  "site": 3122,
+  "location": "CANTERBURY_RD W of STANHOPE_GV",
+  "filename": "model_3122_c9c033244022.keras",
+  "minimum": 1.0,
+  "scale_range": 325.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 19.345634987452158,
+  "Baseline_RMSE": 19.321286494466207,
+  "NRMSE_percent": 16.18397907525128,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

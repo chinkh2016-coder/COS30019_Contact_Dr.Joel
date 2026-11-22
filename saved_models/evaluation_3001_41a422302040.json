@@ -1,0 +1,20 @@
+{
+  "site": 3001,
+  "location": "HIGH_ST NE of BARKERS_RD",
+  "filename": "model_3001_41a422302040.keras",
+  "minimum": 1.0,
+  "scale_range": 423.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 37.71390971190692,
+  "Baseline_RMSE": 40.46551710449481,
+  "NRMSE_percent": 33.10131361854071,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

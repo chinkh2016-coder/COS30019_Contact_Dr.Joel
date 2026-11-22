@@ -1,0 +1,20 @@
+{
+  "site": 3804,
+  "location": "TRAFALGAR_RD S of RIVERSDALE_RD",
+  "filename": "model_3804_a4e46ef4770a.keras",
+  "minimum": 0.0,
+  "scale_range": 321.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 18.400263497079692,
+  "Baseline_RMSE": 18.3968502570109,
+  "NRMSE_percent": 17.689655742337052,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

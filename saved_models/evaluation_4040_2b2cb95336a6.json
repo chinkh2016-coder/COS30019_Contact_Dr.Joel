@@ -1,0 +1,20 @@
+{
+  "site": 4040,
+  "location": "CAMBERWELL_RD SE of BURKE_RD",
+  "filename": "model_4040_2b2cb95336a6.keras",
+  "minimum": 0.0,
+  "scale_range": 231.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 14.126901162552375,
+  "Baseline_RMSE": 14.949033496667003,
+  "NRMSE_percent": 23.128827631075964,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

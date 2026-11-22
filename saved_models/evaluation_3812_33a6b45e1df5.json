@@ -1,0 +1,20 @@
+{
+  "site": 3812,
+  "location": "CAMBERWELL_RD NW of TRAFALGAR_RD",
+  "filename": "model_3812_33a6b45e1df5.keras",
+  "minimum": 0.0,
+  "scale_range": 358.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 38.97398473612919,
+  "Baseline_RMSE": 44.705923155857,
+  "NRMSE_percent": 40.09015951901097,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

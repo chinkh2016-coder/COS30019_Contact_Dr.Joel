@@ -1,0 +1,20 @@
+{
+  "site": 4273,
+  "location": "TOORONGA_RD N of TOORAK_RD",
+  "filename": "model_4273_b19cd96c2c50.keras",
+  "minimum": 0.0,
+  "scale_range": 285.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 19.347883952958327,
+  "Baseline_RMSE": 20.590430750941486,
+  "NRMSE_percent": 23.63750358679104,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

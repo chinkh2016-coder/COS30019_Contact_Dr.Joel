@@ -1,0 +1,20 @@
+{
+  "site": 3682,
+  "location": "RIVERSDALE_RD W OF WARRIGAL_RD",
+  "filename": "model_3682_3bd16d2ada65.keras",
+  "minimum": 0.0,
+  "scale_range": 302.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1656,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 18.769794104686895,
+  "Baseline_RMSE": 18.665950333785688,
+  "NRMSE_percent": 19.73735349904211,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}
