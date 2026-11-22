@@ -1,0 +1,20 @@
+{
+  "site": 4270,
+  "location": "GLENFERRIE_RD N of RIVERSDALE_RD",
+  "filename": "model_4270_2b5e06dadef7.keras",
+  "minimum": 1.0,
+  "scale_range": 186.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 16.532338259873388,
+  "Baseline_RMSE": 17.66440080785706,
+  "NRMSE_percent": 21.495711365553124,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

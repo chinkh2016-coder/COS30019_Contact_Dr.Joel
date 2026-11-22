@@ -1,0 +1,20 @@
+{
+  "site": 4032,
+  "location": "BURKE_RD N of HARP_RD",
+  "filename": "model_4032_d1c9f030d301.keras",
+  "minimum": 1.0,
+  "scale_range": 361.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 23.837411519737298,
+  "Baseline_RMSE": 24.79744026060474,
+  "NRMSE_percent": 17.73178517899026,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

@@ -1,0 +1,20 @@
+{
+  "site": 4063,
+  "location": "WHITEHORSE_RD W OF BALWYN_RD",
+  "filename": "model_4063_44c03d24e31c.keras",
+  "minimum": 0.0,
+  "scale_range": 226.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 17.105220015752227,
+  "Baseline_RMSE": 17.027106631734213,
+  "NRMSE_percent": 19.933700716847806,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

@@ -1,0 +1,20 @@
+{
+  "site": 4264,
+  "location": "GLENFERRIE_RD S of BURWOOD_RD",
+  "filename": "model_4264_00a9fd65ecf3.keras",
+  "minimum": 2.0,
+  "scale_range": 187.0,
+  "window_size": 4,
+  "validation_start": "2006-10-17",
+  "test_start": "2006-10-20",
+  "test_end_exclusive": "2006-10-23",
+  "evaluation_note": "Different evaluation period; not directly comparable with October 25-31 models.",
+  "train_samples": 1472,
+  "validation_samples": 276,
+  "test_samples": 276,
+  "LSTM_RMSE": 14.994995818474974,
+  "Baseline_RMSE": 15.951693381554525,
+  "NRMSE_percent": 18.745442729862727,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}

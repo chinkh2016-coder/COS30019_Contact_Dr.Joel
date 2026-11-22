@@ -1,0 +1,20 @@
+{
+  "site": 4051,
+  "location": "DONCASTER_RD E of BULLEEN_RD",
+  "filename": "model_4051_5c95235155f8.keras",
+  "minimum": 0.0,
+  "scale_range": 258.0,
+  "window_size": 4,
+  "validation_start": "2006-10-21",
+  "test_start": "2006-10-25",
+  "test_end_exclusive": "2006-11-01",
+  "evaluation_note": "Same October 25-31 evaluation period as the original benchmark.",
+  "train_samples": 1840,
+  "validation_samples": 368,
+  "test_samples": 644,
+  "LSTM_RMSE": 17.79833216983389,
+  "Baseline_RMSE": 18.225724090788283,
+  "NRMSE_percent": 21.81267777531595,
+  "epochs_run": 30,
+  "best_validation_epoch": 30
+}
