@@ -4,7 +4,8 @@
 
 COS30019 Assignment 2B 
 ## Team Member
-Kian Xiu CHIN -
+Kian Xiu CHIN - 104384355
+
 Kian Hee CHIN - 104392565
 
 ## Current recorded status
