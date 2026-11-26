@@ -715,16 +715,33 @@ class TrafficApp:
                     "is closed."
                 )
 
+            # Distinguish network gaps from missing daily data.
             if not self.routes:
-                if warnings:
+                status = getattr(
+                    self.system,
+                    "last_route_status",
+                    "",
+                )
+
+                if status == "NO_CONFIGURED_PATH":
                     lines.append(
-                        "No route can be returned using "
-                        "the available observations."
+                        "No directed path exists in the "
+                        "configured network. "
+                        "This does not prove that no "
+                        "real-world road route exists."
                     )
+
+                elif status == "NO_OBSERVED_PATH":
+                    lines.append(
+                        "A configured path exists, but "
+                        "missing observations prevent "
+                        "routing on this date. "
+                        "Try another date."
+                    )
+
                 else:
                     lines.append(
-                        "No route found in the configured "
-                        "road graph."
+                        "No route found in the available graph."
                     )
 
             for rank, (path, seconds) in enumerate(
